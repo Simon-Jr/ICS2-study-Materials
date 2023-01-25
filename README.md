@@ -1,5 +1,8 @@
 # ICS2-study-Materials
-Sharing the Study Materials i used in Passing My exam
+Sharing the Study Materials i used in Preparing for My exam 
+A Background in Tech in addition with this materialsshould get you ready 1-2 month to sucessfully pass the exam 
+
+First step is Studying the exam outline to understanding where you need to concentrate more while Preparing 
 
 EXAM OUTLINE 
 [Certified-in-Cybersecurity-Exam-Outline-Aug22.pdf](https://github.com/Simon-Jr/ICS2-study-Materials/files/10498863/Certified-in-Cybersecurity-Exam-Outline-Aug22.pdf)
