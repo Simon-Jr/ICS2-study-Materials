@@ -1,4 +1,4 @@
-# ICS2-study-Materials
+# ICS2-CC-study-Materials
 Sharing the Study Materials i used in Preparing for My exam 
 
 
