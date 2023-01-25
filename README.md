@@ -18,3 +18,6 @@ GLOSSARY FROM ISC2
 
 [Glossary ISC2 - International Information System Security.pdf](https://github.com/Simon-Jr/ICS2-study-Materials/files/10498882/Glossary.ISC2.-.International.Information.System.Security.pdf)
 
+YOUTUBE LINK FOR CC MASTERCLASS
+(ISC)² Certified in Cybersecurity Exam Prep Masterclass
+https://youtu.be/FEFTgHHcl5I
